@@ -11,11 +11,11 @@ This is a Streamlit-based Leave Management System that allows managers and emplo
 ## Folder Structure
 ```plaintext
 Leave-Management-System/
-├── README.md # Project documentation and setup instructions
-├── create_tables.sql # Database schema script 
+├── README.md           # Project documentation and setup instructions
+├── create_tables.sql   # Database schema script 
 ├── leave_management.db # SQLite database file
-├── main.py # Main application code
-└── requirements.txt # List of neccessary dependencies
+├── main.py             # Main application code
+└── requirements.txt    # List of neccessary dependencies
 ```
 
 ## Tools Used
