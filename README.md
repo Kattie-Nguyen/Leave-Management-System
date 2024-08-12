@@ -22,6 +22,7 @@ Leave-Management-System/
 
 - **Streamlit**: For building the web application.
 - **SQLite**: For the database.
+- **Python**: 3.10.11.
 
 ## Installation
 
