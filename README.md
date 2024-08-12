@@ -8,6 +8,14 @@ This is a Streamlit-based Leave Management System that allows managers and emplo
 - **Leave Requests**: Employees can apply for leave, and managers can approve or reject requests.
 - **Dashboard**: Separate dashboards for managers and employees to manage and view leave requests.
 
+## Folder Structure
+Leave-Management-System/
+├── README.md
+├── create_tables.sql
+├── leave_management.db
+├── main.py
+└── requirements.txt
+
 ## Tools Used
 
 - **Streamlit**: For building the web application.
