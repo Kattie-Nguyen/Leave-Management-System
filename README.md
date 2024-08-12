@@ -12,8 +12,6 @@ This is a Streamlit-based Leave Management System that allows managers and emplo
 
 - **Streamlit**: For building the web application.
 - **SQLite**: For the database.
-- **SQLAlchemy**: For database ORM and operations.
-- **Werkzeug**: For password hashing and security.
 
 ## Installation
 
