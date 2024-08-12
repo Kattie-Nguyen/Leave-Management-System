@@ -10,6 +10,7 @@ This is a Streamlit-based Leave Management System that allows managers and emplo
 
 ## Folder Structure
 Leave-Management-System/
+
 ├── README.md
 ├── create_tables.sql
 ├── leave_management.db
