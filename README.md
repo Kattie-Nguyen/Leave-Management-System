@@ -9,29 +9,15 @@ This is a Streamlit-based Leave Management System that allows managers and emplo
 - **Dashboard**: Separate dashboards for managers and employees to manage and view leave requests.
 
 ## Folder Structure
-Leave-Management-System/
-
-├─README.md
-
-├─create_tables.sql
-
-├─leave_management.db
-
-├─main.py
-
-└─requirements.txt
 ```plaintext
-deployability/ 
-├── output/ : Directory to store output files, such as model checkpoints, logs, and results
-├── README.md: Instructions on how to use the repository.
-├── Train_Detectron2_Object_Detector_Custom.py: Script to train the Detectron2 model on a custom dataset.
-├── class.names: File containing the names of the classes for object detection.
-├── evaluation.py: Script to evaluate the performance of the trained model
-├── predict.py: Script to run predictions on new images using the trained model
-├── requirements.txt
-├── train.py: Training script
-└── util.py: Utility functions
+Leave-Management-System/
+├── README.md # Project documentation and setup instructions
+├── create_tables.sql # Database schema script 
+├── leave_management.db # SQLite database file
+├── main.py # Main application code
+└── requirements.txt # List of neccessary dependencies
 ```
+
 ## Tools Used
 
 - **Streamlit**: For building the web application.
