@@ -2,6 +2,8 @@
 
 This is a Streamlit-based Leave Management System that allows managers and employees to manage leave requests.
 
+This application is deployed on Streamlit Cloud. You can access it [here](https://leave-management-system-qqzzww4n8o5uq3ckpxgogn.streamlit.app/).
+
 ## Features
 
 - **User Authentication**: Register and log in as a manager or employee.
